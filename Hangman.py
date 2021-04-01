@@ -2,7 +2,6 @@ from array import array
 import os
 import sys
 import random
-import typing
 
 # Constant Strings
 DEFAULT_INTRO = "Welcome to Hangman\n You will have 5 tries before you hang someone.\n Good Luck!\n"
